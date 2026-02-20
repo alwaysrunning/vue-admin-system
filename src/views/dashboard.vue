@@ -1,6 +1,6 @@
 <template>
     <div>
-        <el-row :gutter="20" class="mgb20">
+        <!-- <el-row :gutter="20" class="mgb20">
             <el-col :span="6">
                 <el-card shadow="hover" body-class="card-body">
                     <el-icon class="card-icon bg1">
@@ -45,7 +45,7 @@
                     </div>
                 </el-card>
             </el-col>
-        </el-row>
+        </el-row> -->
 
         <el-row :gutter="20" class="mgb20">
             <el-col :span="18">
